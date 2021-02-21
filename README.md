@@ -12,7 +12,7 @@ _Please help reader navigate around describing how the repository is organized b
 * **Source code** is in the [src folder](https://github.com/exemploTrabalho/report/src).
 * Report chapters are in [doc folder](https://github.com/exemploTrabalho/report/doc).
 
-## Galery
+## Gallery
 
 _Please provide a galery of the final result, with small images_
 A [table](https://www.markdownguide.org/extended-syntax/#tables) may be usefull to organize the images.
