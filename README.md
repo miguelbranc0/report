@@ -24,6 +24,7 @@ _Indicate the technologies you have used in this assignment. Please provide link
 * HTML5 + CSS3
 * Javascript
 * PHP
+* nodeJS
 * _Any other?_
 
 ### Frameworks and Libraries
